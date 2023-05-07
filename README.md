@@ -1,4 +1,4 @@
-### Hi there, I'm Yinying Huo👋
+### Hi there 👋
 
 - 🎓 Junior at 🇨🇦 [UofA](https://www.Ualberta.ca), _Mathematics - Computational Science_
 - 🔭 I’m currently working on ...
